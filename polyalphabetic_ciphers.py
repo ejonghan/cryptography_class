@@ -1,3 +1,5 @@
+s = "ABCDEFGHIJKLMNOPQRSTUVWXYG"
+
 def vigenere(plain_message, keyword):
     e = ""
     count = 0 # keystream 을 반복시키기위한 변수

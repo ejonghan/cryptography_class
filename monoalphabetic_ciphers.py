@@ -1,3 +1,5 @@
+s = "ABCDEFGHIJKLMNOPQRSTUVWXYG"
+
 def additive(plain_message):
   e = ""
   for c in plain_message:
